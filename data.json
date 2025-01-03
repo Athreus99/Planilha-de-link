@@ -1,0 +1,17 @@
+{
+    "name": "Matheus Gouvea ",
+    "avatar": "https://example.com/avatar.jpg",
+    "description": "Desenvolvedor apaixonado por criar soluções inovadoras.",
+    "links": [
+        { "name": "Meu Site", "url": "https://meusite.com" },
+        { "name": "Portfólio", "url": "https://portfolio.com" },
+        { "name": "Blog", "url": "https://blog.com" },
+        { "name": "Projetos", "url": "https://projetos.com" },
+        { "name": "Contato", "url": "https://wa.me/5553984567670" }
+    ],
+    "socialLinks": {
+        "LinkedIn": "https://linkedin.com/in/mariasilva",
+        "Facebook": "https://www.facebook.com/matheus.gouvea.351/",
+        "Instagram": "https://www.instagram.com/matheusgouvea99/"
+    }
+}
